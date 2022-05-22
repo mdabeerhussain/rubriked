@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
+.hero-area{
+    background-color: #212529;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+.footer{
+    background-color: #212529;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+#app{
+    font-size: 50px;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+    font-weight: 700;
+}
+
+.cards-area{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.cards-area h1{
+    margin-bottom: 50px;
+}
